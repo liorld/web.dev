@@ -10,7 +10,7 @@ business.
 Note: this repo contains the written content for web.dev. The client-side JS and
 server are not yet open source but we hope to share them soon! 🙇‍♂️
 
-## Found a bug? 👷‍♀️
+## Found a bug? 👷‍♀️👷‍♀️
 
 Thanks for letting us know! Please [file an issue](https://github.com/GoogleChrome/web.dev/issues/new?assignees=&labels=bug&template=bug_report.md&title=) and a team member should reply shortly.
 
